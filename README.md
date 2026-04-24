@@ -65,7 +65,6 @@ An AI teaching assistant that answers student questions grounded in course mater
 </tr>
 <tr>
 <td width="50%">
-<td width="50%">
 
 ### 🦠 Genomic Phylogenetic Reconstruction of SARS-CoV-2
 Automated computational pipeline for phylogenetic reconstruction of SARS-CoV-2 strains — sequence retrieval, alignment, and tree inference to trace variant evolution.
@@ -73,16 +72,6 @@ Automated computational pipeline for phylogenetic reconstruction of SARS-CoV-2 s
 `BioPython` `MUSCLE/MAFFT` `IQ-TREE` `Phylogenetics` `NCBI`
 
 </td>
-
-### 📊 Sales Data Analytics
-Exploratory analysis, forecasting, and customer segmentation using statistical and machine learning methods on real-world sales datasets.
-
-`Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
-
-</td>
-<td width="50%"></td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🧬 In Silico Aspirin–Mpro Binding Analysis
@@ -91,7 +80,6 @@ Molecular docking of Aspirin against SARS-CoV-2 Main Protease (PDB: 9O6F S113A m
 `AutoDock Vina` `UCSF ChimeraX` `Open Babel` `Computational Drug Discovery`
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
